@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Course data, rebuilt from code
+data/ 
+*.duckdb
+*.parquet
