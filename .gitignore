@@ -219,7 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Course data, rebuilt from code
+# Local data files. Never committed.
 data/ 
 *.duckdb
 *.parquet
